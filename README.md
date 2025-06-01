@@ -9,19 +9,19 @@
 
 💻 **tech i like using**
 
-`java` · `python` · `c` · `sql` · `next.js` · `react` · `tailwindcss` · `typescript` · `openai api` · `vercel`  
+`java` · `python` · `c` · `postgresql` · `next.js` · `react` · `tailwindcss` · `typescript` · `javascript`  
 also into `html/css` · `doing too much on notion`
-
----
-
-💭 **tiny reminder**
-
-> “progress, not perfection.”
 
 ---
 
 🌼 **let’s be internet friends**
 
 [🌐 linkedin](https://www.linkedin.com/in/hannahstarlee) · [📫 email](mailto:hlee77@cs.washington.edu)
+
+---
+
+💭 **tiny reminder**
+
+> “progress, not perfection.”
 
 ---
