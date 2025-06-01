@@ -7,23 +7,6 @@
   <img src="https://img.shields.io/badge/vibe-soft%20tech-ffe3f1?style=flat-square" />
 </p>
 
----
-
-⭐ **about me**
-
-- first yr studying cs @ university of washington
-- into ai, design, sustainability, fasion, and meaningful work
-- currently experimenting with color analysis + diffusion inpainting!
-
----
-
-🍓 **projects i care about**
-
-- [**laundrosnap**](https://github.com/hannahstarlee/laundrosnap) – ai-powered app for sustainable laundry habits and environmental awareness 🌎  
-- [**lowkeyprepped**](https://github.com/hannahstarlee/lowkeyprepped) – mock interview tool with ai feedback & realistic technical + behavioral practice 🎤  
-
----
-
 💻 **tech i like using**
 
 `java` · `python` · `c` · `sql` · `next.js` · `react` · `tailwindcss` · `typescript` · `openai api` · `vercel`  
