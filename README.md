@@ -20,7 +20,7 @@
 🍓 **projects i care about**
 
 - [**laundrosnap**](https://github.com/hannahstarlee/laundrosnap) – ai-powered app for sustainable laundry habits and environmental awareness 🌎  
-- [**lowkeyprepped**](https://github.com/hannahstarlee/lowkeyprepped) – mock interview tool with ai feedback & community pairing 🎤  
+- [**lowkeyprepped**](https://github.com/hannahstarlee/lowkeyprepped) – mock interview tool with ai feedback & realistic technical + behavioral practice 🎤  
 
 ---
 
