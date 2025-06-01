@@ -14,9 +14,9 @@ also into `html/css` · `doing too much on notion`
 
 ---
 
-🌼 **let’s be internet friends**
+🎧 **let’s be internet friends**
 
-[🌐 linkedin](https://www.linkedin.com/in/hannahstarlee) · [📫 email](mailto:hlee77@cs.washington.edu)
+[🌐 linkedin](https://www.linkedin.com/in/hannahstarlee) · [💌 email](mailto:hlee77@cs.washington.edu)
 
 ---
 
