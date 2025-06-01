@@ -9,8 +9,8 @@
 
 💻 **tech i like using**
 
-`java` · `python` · `c` · `postgresql` · `next.js` · `react` · `tailwindcss` · `typescript` · `javascript`  
-also into `html/css` · `doing too much on notion`
+`java` · `python` · `c` · `postgresql` · `next.js` · `react` · `tailwindcss` · `typescript` · `javascript` · `html`  
+also into `doing too much on notion`
 
 ---
 
