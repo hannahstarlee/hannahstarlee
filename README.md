@@ -1,16 +1,44 @@
-## Hi there 👋
+<h1 align="center">🩰 hi, i’m hannah</h1>
+<p align="center">cs @ uw • learning how to build cool stuff</p>
 
-<!--
-**hannahstarlee/hannahstarlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/building%20with-love-fbbedc?style=flat-square&logo=heart&logoColor=white" />
+  <img src="https://img.shields.io/badge/tech-ai,%20web,%20design-fbe4e2?style=flat-square" />
+  <img src="https://img.shields.io/badge/vibe-soft%20tech-ffe3f1?style=flat-square" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌷 **about me**
+
+- first yr studying cs @ university of washington
+- into ai, design, sustainability, fasion, and meaningful work
+- currently experimenting with color analysis + diffusion inpainting!
+
+---
+
+🍓 **projects i care about**
+
+- [**laundrosnap**](https://github.com/hannahstarlee/laundrosnap) – ai-powered app for sustainable laundry habits and environmental awareness 🌎  
+- [**lowkeyprepped**](https://github.com/hannahstarlee/lowkeyprepped) – mock interview tool with ai feedback & community pairing 🎤  
+
+---
+
+💻 **tech i like using**
+
+`java` · `python` · `c` · `sql` · `next.js` · `react` · `tailwindcss` · `typescript` · `openai api` · `vercel`
+also into `html/css` · `doing too much on notion`
+
+---
+
+💭 **tiny reminder**
+
+> “progress, not perfection.”
+
+---
+
+🌼 **let’s be internet friends**
+
+[🌐 linkedin](https://www.linkedin.com/in/hannahstarlee) · [📫 email](mailto:hlee77@cs.washington.edu)
+
+---
