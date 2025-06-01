@@ -14,7 +14,7 @@ also into `doing too much on notion`
 
 ---
 
-🎧 **let’s be internet friends**
+🎧 **connect with me**
 
 [🌐 linkedin](https://www.linkedin.com/in/hannahstarlee) · [💌 email](mailto:hlee77@cs.washington.edu)
 
