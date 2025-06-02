@@ -16,7 +16,7 @@ also into `doing too much on notion`
 
 🎧 **connect with me**
 
-[🌐 linkedin](https://www.linkedin.com/in/hannahstarlee) · [💌 email](mailto:hlee77@cs.washington.edu)
+[🌐 linkedin](https://www.linkedin.com/in/hannahstarlee) · [💌 email](mailto:hlee77@cs.washington.edu) · [🛠️ devpost](https://devpost.com/hannahstarlee) 
 
 ---
 
