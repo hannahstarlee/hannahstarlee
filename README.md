@@ -20,7 +20,7 @@ also into `doing too much on notion`
 
 ---
 
-💭 **tiny reminder**
+💭 **reminder**
 
 > “progress, not perfection.”
 
